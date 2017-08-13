@@ -1,6 +1,6 @@
 h1{
 	text-align:center;
-	color:#777;
+	color:#BC8F8F;
 }
 .color{
 	background: #ebebeb;
@@ -9,7 +9,7 @@ h1{
 .outer{
 	width: 960px;
 	height: 400px;
-	background: #777;
+	background: #D2B48C;
 }
 .clear{
 	clear: both;
@@ -50,7 +50,7 @@ aside{
 	width: 35.5%;
 }
 article{
-	background-color: #777;
+	background-color: #BC8F8F;
 	color: #ebebeb;
 	width: 280px;
 	height: 112px;
