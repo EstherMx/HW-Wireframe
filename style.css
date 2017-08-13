@@ -10,6 +10,7 @@ h1{
 	width: 960px;
 	height: 400px;
 	background: #D2B48C;
+	margin: auto;
 }
 .clear{
 	clear: both;
