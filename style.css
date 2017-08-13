@@ -11,6 +11,8 @@ h1{
 	height: 400px;
 	background: #D2B48C;
 	margin: auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 .clear{
 	clear: both;
